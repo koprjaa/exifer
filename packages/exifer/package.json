@@ -39,7 +39,7 @@
   "license": "MIT",
   "devDependencies": {
     "eliminate": "^1.1.1",
-    "rollup": "^1.20.3"
+    "rollup": "^2.80.0"
   },
   "publishConfig": {
     "access": "public"
